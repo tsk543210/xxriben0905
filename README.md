@@ -18,4 +18,4 @@
 
 最后，不可忽视的是隐私安全设置，包括HTTPS加密、浏览记录本地存储、播放隐私保护等，都是赢得用户信任的重要手段。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0905)</span>
